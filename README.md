@@ -2,7 +2,7 @@
 
 Este repositório contém o projeto de banco de dados relacional desenvolvido para a **Lorena Tech**, um negócio fictício especializado em suporte de TI e venda de hardware.
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 O objetivo desta atividade foi aplicar conceitos fundamentais de SQL, criando um banco de dados do zero. Durante o desenvolvimento, aprendi a:
 * Estruturar tabelas relacionais (Entidades como Clientes, Produtos e Serviços).
 * Diferenciar e aplicar comandos de definição (DDL) e manipulação (DML).
@@ -10,7 +10,7 @@ O objetivo desta atividade foi aplicar conceitos fundamentais de SQL, criando um
 
 ---
 
-## 📚 Conteúdo Educacional: DDL vs DML
+##  Conteúdo Educacional: DDL vs DML
 
 Para gerenciar o banco de dados da Lorena Tech, utilizamos dois grupos essenciais de comandos SQL:
 
@@ -42,11 +42,11 @@ A **Linguagem de Manipulação de Dados** é usada para interagir com os dados d
 
 ---
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 * `/sql_scripts`: Pasta contendo o código fonte (`script_lorena_tech.sql`) pronto para execução.
 
-## 🚀 Como executar
+##  Como executar
 1. Acesse a pasta `sql_scripts` neste repositório.
 2. Baixe ou copie o código SQL.
 3. Execute em um gerenciador de banco de dados (como MySQL Workbench).
